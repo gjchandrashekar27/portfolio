@@ -31,15 +31,15 @@ I'm a passionate backend developer currently learning Java Full Stack. This port
 
 ### 🖥️ Homepage View
 
-![Homepage Screenshot](C:\Users\Chandrashekar_G_J\OneDrive\Desktop\My-Portfolio\Homepage.png)
+
 
 ### 📱 Responsive Mobile View
 
-![Mobile Screenshot](C:\Users\Chandrashekar_G_J\OneDrive\Desktop\My-Portfolio\MobileScreenshot.jpg)
+![Homepage Screenshot](./assets/homepage.png)
 
 ### 📱 Project View
 
-![Project Screenshot](C:\Users\Chandrashekar_G_J\OneDrive\Desktop\My-Portfolio\Project.png)
+![Project Screenshot](./assets/project.png)
 
 ## 📬 Contact
 
